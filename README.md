@@ -1,7 +1,7 @@
 harvester-installer
 ========
 
-This repo is a fork from [harvester-installer] (https://github.com/harvester/harvester-installer) to support Harvester installation on NetApp FlexPod platform.
+This repo is a fork from [harvester-installer](https://github.com/harvester/harvester-installer) to support Harvester installation on NetApp FlexPod platform.
 
 [![Build Status](https://github.com/harvester/harvester-installer/actions/workflows/build.yml/badge.svg)](https://github.com/harvester/harvester-installer/actions/workflows/build.yml)
 
